@@ -1,0 +1,8 @@
+LIBRARY
+EXPORTS
+    NewVector @ 1
+    AddItem @ 2
+    GetItem @ 3
+    DeleteVector @ 4
+    GetVectorSize @ 5
+    DeleteItem @ 6
